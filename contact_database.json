@@ -1,0 +1,233 @@
+{
+  "Sunway Medical Centre": {
+    "website": "sunwaymedical.com",
+    "phone": "+603-7491 9191",
+    "email": "customercare@sunway.com.my",
+    "general_email": "enquiry@sunway.com.my"
+  },
+  "Sunway Medical Centre Velocity": {
+    "website": "sunwayvelocity.com",
+    "phone": "+603-9772 9191",
+    "email": "velocity@sunway.com.my"
+  },
+  "Sunway Fertility Centre (Kuching)": {
+    "website": "sunwayfertility.com",
+    "phone": "+6082-367788",
+    "email": "enquiry@sunwayfertility.com"
+  },
+  "Sunway TCM Centre": {
+    "website": "sunwaytcm.com.my",
+    "phone": "+603-7492 8988",
+    "email": "info@sunwaytcm.com.my"
+  },
+  "Sunway Home Healthcare": {
+    "website": "sunwayhomehealthcare.com",
+    "phone": "+603-7492 8800",
+    "email": "info@sunwayhomehealthcare.com"
+  },
+  "Sunway Sanctuary": {
+    "website": "sunwaysanctuary.com.my",
+    "phone": "+603-7492 7000",
+    "email": "info@sunwaysanctuary.com.my"
+  },
+  "Beacon Hospital": {
+    "website": "beaconhospital.com.my",
+    "phone": "+603-7653 1000",
+    "email": "info@beaconhospital.com.my"
+  },
+  "Beacon Oncology Centre (Klang)": {
+    "website": "beaconhospital.com.my",
+    "phone": "+603-3325 3000",
+    "email": "boc.klang@beaconhospital.com.my"
+  },
+  "Beacon Oncology Centre (Kuantan)": {
+    "website": "beaconhospital.com.my",
+    "phone": "+609-560 6199",
+    "email": "boc.kuantan@beaconhospital.com.my"
+  },
+  "Beacon TCM": {
+    "website": "beacontcm.com.my",
+    "phone": "+603-7611 8199",
+    "email": "info@beacontcm.com.my"
+  },
+  "Regency Specialist Hospital": {
+    "website": "regency.com.my",
+    "phone": "+607-331 1111",
+    "email": "corporate@regency.com.my"
+  },
+  "Mahkota Medical Centre": {
+    "website": "mahkotamedical.com",
+    "phone": "+606-285 2999",
+    "email": "info@mahkotamedical.com"
+  },
+  "Putra Specialist Hospital (Melaka)": {
+    "website": "putraspecialist.com",
+    "phone": "+606-282 8888",
+    "email": "enquiry@putraspecialist.com"
+  },
+  "Assunta Hospital": {
+    "website": "assunta.com.my",
+    "phone": "+603-7879 6888",
+    "email": "enquiry@assunta.com.my"
+  },
+  "Assunta Integrated Social Services": {
+    "website": "assunta.com.my/aiss",
+    "phone": "+603-7955 8248",
+    "email": "aiss@assunta.com.my"
+  },
+  "Pantai Indah Kapuk Hospital": {
+    "website": "pantaihospital.com.my",
+    "phone": "+62 21 2982 9999",
+    "email": "info@pantaiindahkapuk.com"
+  },
+  "Mandaya Royal Hospital Puri": {
+    "website": "mandayahospital.com",
+    "phone": "+62 21 3002 6888",
+    "email": "cs@mandayahospital.com"
+  },
+  "Mandaya Hospital Kerawang": {
+    "website": "mandayahospital.com",
+    "phone": "+62 267 641 2525",
+    "email": "info@mandayahospital.com"
+  },
+  "Georgetown Specialist Hospital": {
+    "website": "gsh.my",
+    "phone": "+604-370 8888",
+    "email": "info@gsh.my"
+  },
+  "Penang Adventist Hospital": {
+    "website": "pah.com.my",
+    "phone": "+604-222 7200",
+    "email": "enquiry@pah.com.my"
+  },
+  "Loh Guan Lye Specialists Centre": {
+    "website": "lglsc.com",
+    "phone": "+604-238 8888",
+    "email": "marketing@lglsc.com"
+  },
+  "Mount Miriam Cancer Hospital": {
+    "website": "mmch.com.my",
+    "phone": "+604-226 6999",
+    "email": "enquiry@mmch.com.my"
+  },
+  "Kek Lok Si Charitable Hospital": {
+    "website": "klsch.org.my",
+    "phone": "+604-828 9811",
+    "email": "info@klsch.org.my"
+  },
+  "Northern Heart Hospital Penang": {
+    "website": "northernheart.com.my",
+    "phone": "+604-226 2626",
+    "email": "info@northernheart.com.my"
+  },
+  "Oriental Melaka Straits Medical Centre": {
+    "website": "omsmc.com",
+    "phone": "+606-283 2282",
+    "email": "enquiry@omsmc.com"
+  },
+  "Sungai Long Specialist Hospital": {
+    "website": "sungailong.com.my",
+    "phone": "+603-9081 9818",
+    "email": "enquiry@sungailong.com.my"
+  },
+  "CMH Specialist Hospital": {
+    "website": "cmhhosp.com.my",
+    "phone": "+603-6279 8888",
+    "email": "info@cmhhosp.com.my"
+  },
+  "Kota Bharu Medical Centre": {
+    "website": "kbmc.com.my",
+    "phone": "+609-743 6688",
+    "email": "info@kbmc.com.my"
+  },
+  "Perak Community Specialist Hospital": {
+    "website": "pcsh.com.my",
+    "phone": "+605-545 8888",
+    "email": "enquiry@pcsh.com.my"
+  },
+  "Putra Medical Centre (Alor Setar)": {
+    "website": "putramc.com",
+    "phone": "+604-772 5555",
+    "email": "enquiry@putramc.com"
+  },
+  "Putra Specialist Hospital (Batu Pahat)": {
+    "website": "putrabs.com.my",
+    "phone": "+607-438 8888",
+    "email": "info@putrabs.com.my"
+  },
+  "Mawar Medical Centre": {
+    "website": "mawarmc.com",
+    "phone": "+607-888 1366",
+    "email": "info@mawarmc.com"
+  },
+  "Anson Bay Medical Centre": {
+    "website": "ansorbay.com.my",
+    "phone": "+605-682 8922",
+    "email": "enquiry@ansonbay.com.my"
+  },
+  "Bagan Specialist Centre": {
+    "website": "baganspecialist.com.my",
+    "phone": "+604-390 8888",
+    "email": "enquiry@baganspecialist.com.my"
+  },
+  "Alpha IVF Womens Specialists": {
+    "website": "alphaivf.com",
+    "phone": "+603-7620 0555",
+    "email": "enquiry@alphaivf.com"
+  },
+  "Alpha Fertility Centre": {
+    "website": "alphafertilitycentre.com",
+    "phone": "+603-7620 0555",
+    "email": "contact@alphafertilitycentre.com"
+  },
+  "Genesis IVF": {
+    "website": "genesis-ivf.com.my",
+    "phone": "+603-2772 8877",
+    "email": "enquiry@genesis-ivf.com.my"
+  },
+  "Alhaya Fertility Centre": {
+    "website": "alhaya.com.my",
+    "phone": "+603-7931 6888",
+    "email": "info@alhaya.com.my"
+  },
+  "Royal Progress Hospital": {
+    "website": "royalprogress.com",
+    "phone": "+62 21 8066 8888",
+    "email": "info@royalprogress.com"
+  },
+  "The Tun Hussein Onn National Eye Hospital": {
+    "website": "thoneh.com.my",
+    "phone": "+603-2302 2099",
+    "email": "enquiry@thoneh.com.my"
+  },
+  "Daehan Rehabilitation Hospital Putrajaya": {
+    "website": "daehan.com.my",
+    "phone": "+603-8888 8988",
+    "email": "info@daehan.com.my"
+  },
+  "Seri Botani Hospital": {
+    "website": "seribotani.com.my",
+    "phone": "+604-398 2999",
+    "email": "enquiry@seribotani.com.my"
+  },
+  "Andorra Women & Children Hospital": {
+    "website": "andorra.com.my",
+    "phone": "+603-7965 0888",
+    "email": "enquiry@andorra.com.my"
+  },
+  "Unik Polyclinic": {
+    "website": "unikhealth.com.my",
+    "phone": "+603-9543 8800",
+    "email": "info@unikhealth.com.my"
+  },
+  "Unik Dental Clinic": {
+    "website": "unikdental.com.my",
+    "phone": "+603-9543 6600",
+    "email": "dental@unikdental.com.my"
+  },
+  "UNIK Dental Clinic (Semenyih)": {
+    "website": "unikdental.com.my",
+    "phone": "+603-8724 1616",
+    "email": "semenyih@unikdental.com.my"
+  }
+}
